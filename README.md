@@ -1,27 +1,23 @@
-<!-- README.md -->
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/116573815?s=400&u=765b3eb58c395a7890efbbb37820c3a9216de235&v=4" alt="Martín Arias" />
+   <h3 align="center">¡Hola 👋! Soy Martin Arias 🤠</h3>
+</p>
 
-# Martin Arias
-## Student at UPQROO | Self-taught Enthusiast | Calisthenics Lover
+<br/>
 
-<div align="center" style="background-color: #ff0000; padding: 20px;">
-    <p>
-      <img src="https://avatars.githubusercontent.com/u/116573815?s=400&u=765b3eb58c395a7890efbbb37820c3a9216de235&v=4" width="150" height="150" alt="Martín Arias" style="border-radius: 50px;">
-    </p>
-    <p>
-        👋 Hello, fellow GitHubbers! I'm Martin Arias, a Software Engineer student at UPQROO. 📚
-    </p>
-    <p>
-        🌱 I'm a passionate self-learner and I love exploring new technologies and programming languages.
-    </p>
-    <p>
-        💪 When I'm not coding, you can find me working out through <strong>calisthenics</strong> or enjoying music.
-    </p>
-</div>
+<p align="center">Estudiante  de la <strong>UPQROO</strong> 📚😎</p>
+<p align="center">🌱 Me gusta aprender de otros y de mí mismo 😁</p>
+<p align="center">💪 Cuando no estoy tirando codigo, me encontrarás <br />haciendo <strong>calistenia</strong> o escuchando música.</p>
 
-## Connect with Me
+<br/>
 
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-MartinArias-blue)](https://www.linkedin.com/in/your_username) -->
-[![Instagram]([https://twitter.com/your_username](https://www.instagram.com/mart.arss/))
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-martinarias.dev-brightgreen)](https://www.martinarias.dev) -->
+<p align="center"><strong>HeY</strong> 👁️👇</p>
+<p align="center">
+  <a href="https://instagram.com/mart.arss" target="blank">
+    <img align="center" src="https://www.shareicon.net/data/512x512/2016/11/16/854126_color_512x512.png" alt="mart.arss" height="28px" width="28px" />
+  </a>
+</p>
 
-Feel free to reach out, connect, or collaborate on exciting projects! 🚀
+<br />
+
+<p align="center">¡Conectando y colaborarando en proyectos emocionantes! 🚀</p>
