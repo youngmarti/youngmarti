@@ -1,5 +1,4 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/116573815?s=400&u=765b3eb58c395a7890efbbb37820c3a9216de235&v=4" alt="Martín Arias" />
    <h3 align="center">¡Hola 👋! Soy Martín Arias 🤠</h3>
 </p>
 
