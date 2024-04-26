@@ -24,6 +24,6 @@
 <p align="center">¡Conectando y colaborarando en proyectos emocionantes! 🚀</p>
 
 ### 📽️ Mis últimos proyectazos 🤯🤪
-- [API para Eccomerce](https://github.com/youngmarti/EcommAPI)
-- [Proyecto con VUE](https://github.com/youngmarti/ProyectoVue)
-- [Mi primera API](https://github.com/youngmarti/ProyectoVue-Backend)
+- [API para Eccomerce](https://github.com/yvngmarti/EcommAPI)
+- [Proyecto con VUE](https://github.com/yvngmarti/ProyectoVue)
+- [Mi primera API](https://github.com/yvngmarti/ProyectoVue-Backend)
